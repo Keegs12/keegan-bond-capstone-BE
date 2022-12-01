@@ -1,17 +1,23 @@
 const express = require("express");
 const app = express();
-const PORT = process.env.PORT;
+
 const cors = require("cors");
 const dotenv = require("dotenv");
-
-const articleRoutes = require("./routes/articleRoute");
 
 app.use(cors());
 dotenv.config();
 app.use(express.json());
 
-app.use("/articles", articleRoutes);
+const leagueArticleRoute = require("./routes/leagueArticleRoute");
+const leagueTeamsRoute = require("./routes/leagueTeamsRoute");
 
-app.listen(PORT, () => {
+app.use("/lol/articles", leagueArticleRoute);
+app.use("/lol/teams", leagueTeamsRoute);
+
+app.get("/", (req, res) => {
+    res.send("Welcome");
+});
+
+app.listen(process.env.PORT, () => {
     console.log(`Server Running at http://localhost:${process.env.PORT}`);
 });

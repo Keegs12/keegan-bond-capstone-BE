@@ -1,0 +1,640 @@
+[
+    {
+        "acronym": "EG.NA",
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "id": 132126,
+        "image_url": "https://cdn.pandascore.co/images/team/image/132126/evil_geniuses.n_alogo_profile.png",
+        "location": "US",
+        "modified_at": "2022-11-24T13:06:51Z",
+        "name": "Evil Geniuses.NA",
+        "players": [
+            {
+                "age": 26,
+                "birthday": "1996-07-03",
+                "first_name": "Chan-ho",
+                "id": 329,
+                "image_url": "https://cdn.pandascore.co/images/player/image/329/100_ssumday_2021_split_2.png",
+                "last_name": "Kim",
+                "modified_at": "2022-11-24T13:06:51Z",
+                "name": "Ssumday",
+                "nationality": "KR",
+                "role": "top",
+                "slug": "ssumday"
+            },
+            {
+                "age": 23,
+                "birthday": "1999-02-11",
+                "first_name": "Victor",
+                "id": 1612,
+                "image_url": "https://cdn.pandascore.co/images/player/image/1612/100_fbi_2021_split_2.png",
+                "last_name": "Huang",
+                "modified_at": "2022-11-24T13:06:51Z",
+                "name": "FBI",
+                "nationality": "AU",
+                "role": "adc",
+                "slug": "fbi"
+            },
+            {
+                "age": 23,
+                "birthday": "1999-04-20",
+                "first_name": "Philippe",
+                "id": 3506,
+                "image_url": "https://cdn.pandascore.co/images/player/image/3506/c9_vulcan_2021_split_2.png",
+                "last_name": "Laflamme",
+                "modified_at": "2022-11-24T13:06:51Z",
+                "name": "Vulcan",
+                "nationality": "CA",
+                "role": "sup",
+                "slug": "vulcan"
+            },
+            {
+                "age": 20,
+                "birthday": "2002-01-24",
+                "first_name": "Kacper",
+                "id": 18036,
+                "image_url": "https://cdn.pandascore.co/images/player/image/18036/rge_inspired_2021_split_2.png",
+                "last_name": "Sloma",
+                "modified_at": "2022-11-24T13:06:51Z",
+                "name": "Inspired",
+                "nationality": "PL",
+                "role": "jun",
+                "slug": "inspired"
+            },
+            {
+                "age": 21,
+                "birthday": "2001-07-09",
+                "first_name": "Muhammed Hasan",
+                "id": 18480,
+                "image_url": "https://cdn.pandascore.co/images/player/image/18480/220px_iw_kaori_2020_split_1.png",
+                "last_name": "Şentürk",
+                "modified_at": "2022-11-24T13:06:51Z",
+                "name": "Kaori",
+                "nationality": "TR",
+                "role": "adc",
+                "slug": "kaori"
+            },
+            {
+                "age": 18,
+                "birthday": "2004-10-01",
+                "first_name": "Joseph",
+                "id": 32062,
+                "image_url": "https://cdn.pandascore.co/images/player/image/32062/eg_jojopyun_2022_spring.png",
+                "last_name": "Pyun",
+                "modified_at": "2022-11-24T13:06:51Z",
+                "name": "Jojopyun",
+                "nationality": "CA",
+                "role": "mid",
+                "slug": "jojopyun"
+            },
+            {
+                "age": 18,
+                "birthday": "2003-12-04",
+                "first_name": "Kyle",
+                "id": 33652,
+                "image_url": "https://cdn.pandascore.co/images/player/image/33652/danny_1_1024x1024.png",
+                "last_name": "Sakamaki",
+                "modified_at": "2022-11-24T13:06:51Z",
+                "name": "Danny",
+                "nationality": "US",
+                "role": "adc",
+                "slug": "shiro-742af6d1-a1f1-46dd-a68c-fbc37c9d0bd1"
+            }
+        ],
+        "slug": "evil-geniuses-na"
+    },
+    {
+        "acronym": "C9",
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "id": 1097,
+        "image_url": "https://cdn.pandascore.co/images/team/image/1097/cloud9-gnd9b0gn.png",
+        "location": "US",
+        "modified_at": "2022-11-24T13:07:49Z",
+        "name": "Cloud9",
+        "players": [
+            {
+                "age": 25,
+                "birthday": "1997-06-24",
+                "first_name": "Jesper",
+                "id": 680,
+                "image_url": "https://cdn.pandascore.co/images/player/image/680/c9_zven_2021_split_2.png",
+                "last_name": "Svenningsen",
+                "modified_at": "2022-09-29T06:13:25Z",
+                "name": "Zven",
+                "nationality": "DK",
+                "role": "adc",
+                "slug": "zven"
+            },
+            {
+                "age": 22,
+                "birthday": "2000-01-04",
+                "first_name": "Robert",
+                "id": 8281,
+                "image_url": "https://cdn.pandascore.co/images/player/image/8281/c9_blaber_2021_split_2.png",
+                "last_name": "Huang",
+                "modified_at": "2022-09-29T06:13:25Z",
+                "name": "Blaber",
+                "nationality": "US",
+                "role": "jun",
+                "slug": "blaberfish2"
+            },
+            {
+                "age": 20,
+                "birthday": "2002-05-23",
+                "first_name": "Ibrahim",
+                "id": 22972,
+                "image_url": "https://cdn.pandascore.co/images/player/image/22972/c9_fudge_2021_split_2.png",
+                "last_name": "Allami",
+                "modified_at": "2022-09-29T06:13:25Z",
+                "name": "Fudge",
+                "nationality": "AU",
+                "role": "mid",
+                "slug": "fudge-ibrahim-allami"
+            },
+            {
+                "age": 19,
+                "birthday": "2003-05-25",
+                "first_name": "Kim ",
+                "id": 31224,
+                "image_url": "https://cdn.pandascore.co/images/player/image/31224/t1.c_berserker_2021_split_1.png",
+                "last_name": "Min-cheol",
+                "modified_at": "2022-09-29T06:13:24Z",
+                "name": "Berserker",
+                "nationality": "KR",
+                "role": "adc",
+                "slug": "berserker"
+            }
+        ],
+        "slug": "cloud9"
+    },
+    {
+        "acronym": "TSM",
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "id": 387,
+        "image_url": "https://cdn.pandascore.co/images/team/image/387/team-solomid-bjjwknt9.png",
+        "location": "US",
+        "modified_at": "2022-11-30T15:30:24Z",
+        "name": "Team SoloMid",
+        "players": [
+            {
+                "age": 29,
+                "birthday": "1993-05-26",
+                "first_name": "Colin",
+                "id": 214,
+                "image_url": "https://cdn.pandascore.co/images/player/image/214/clg_solo_2021_split_1.png",
+                "last_name": "Earnest",
+                "modified_at": "2022-11-30T15:30:24Z",
+                "name": "Solo",
+                "nationality": "US",
+                "role": "top",
+                "slug": "solo"
+            },
+            {
+                "age": 25,
+                "birthday": "1997-10-10",
+                "first_name": "Yitang",
+                "id": 421,
+                "image_url": "https://cdn.pandascore.co/images/player/image/421/al_maple_2022_split_1.png",
+                "last_name": "Huang",
+                "modified_at": "2022-08-21T20:19:37Z",
+                "name": "Maple",
+                "nationality": "TW",
+                "role": "mid",
+                "slug": "maple"
+            },
+            {
+                "age": 24,
+                "birthday": "1998-05-21",
+                "first_name": "Lee",
+                "id": 17197,
+                "image_url": "https://cdn.pandascore.co/images/player/image/17197/220px_v3_bugi_2020_split_1.png",
+                "last_name": "Seong-yeop",
+                "modified_at": "2022-11-30T15:29:36Z",
+                "name": "Bugi",
+                "nationality": "KR",
+                "role": "jun",
+                "slug": "bugi"
+            },
+            {
+                "age": 23,
+                "birthday": "1999-10-10",
+                "first_name": "Toàn",
+                "id": 19587,
+                "image_url": "https://cdn.pandascore.co/images/player/image/19587/dig_neo_2021_split_2.png",
+                "last_name": "Trần",
+                "modified_at": "2022-11-30T15:30:04Z",
+                "name": "Neo",
+                "nationality": "US",
+                "role": "adc",
+                "slug": "asta"
+            },
+            {
+                "age": 23,
+                "birthday": "1998-12-09",
+                "first_name": "Johnathan",
+                "id": 28536,
+                "image_url": "https://cdn.pandascore.co/images/player/image/28536/gg_chime_2021_split_1.png",
+                "last_name": " Pomponio",
+                "modified_at": "2022-08-21T20:19:37Z",
+                "name": "Chime",
+                "nationality": "CA",
+                "role": "sup",
+                "slug": "chime"
+            }
+        ],
+        "slug": "solomid"
+    },
+    {
+        "acronym": "TL",
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "id": 390,
+        "image_url": "https://cdn.pandascore.co/images/team/image/390/liquid.png",
+        "location": "NL",
+        "modified_at": "2022-11-24T23:02:43Z",
+        "name": "Team Liquid",
+        "players": [
+            {
+                "age": 28,
+                "birthday": "1994-06-22",
+                "first_name": "Jo",
+                "id": 47,
+                "image_url": "https://cdn.pandascore.co/images/player/image/47/tl_core_jj_2021_split_2.png",
+                "last_name": "Yong-in",
+                "modified_at": "2022-08-20T21:08:42Z",
+                "name": "CoreJJ",
+                "nationality": "KR",
+                "role": "sup",
+                "slug": "corejj"
+            },
+            {
+                "age": 23,
+                "birthday": "1998-12-24",
+                "first_name": "Gabriël",
+                "id": 1343,
+                "image_url": "https://cdn.pandascore.co/images/player/image/1343/fnc_bwipo_2021_split_2.png",
+                "last_name": "Rau",
+                "modified_at": "2022-08-20T21:08:42Z",
+                "name": "Bwipo",
+                "nationality": "BE",
+                "role": "top",
+                "slug": "bwipo"
+            }
+        ],
+        "slug": "liquid"
+    },
+    {
+        "acronym": "CLG",
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "id": 389,
+        "image_url": "https://cdn.pandascore.co/images/team/image/389/counter_logic_gaminglogo_square.png",
+        "location": "US",
+        "modified_at": "2022-08-21T20:06:09Z",
+        "name": "Counter Logic Gaming",
+        "players": [
+            {
+                "age": 23,
+                "birthday": "1999-08-25",
+                "first_name": "Juan Arturo",
+                "id": 862,
+                "image_url": "https://cdn.pandascore.co/images/player/image/862/220px_100_contractz_2020_split_1.png",
+                "last_name": "Garcia",
+                "modified_at": "2022-08-21T20:06:09Z",
+                "name": "Contractz",
+                "nationality": "US",
+                "role": "jun",
+                "slug": "contractz"
+            },
+            {
+                "age": 21,
+                "birthday": "2001-07-27",
+                "first_name": "Fatih",
+                "id": 1731,
+                "image_url": "https://cdn.pandascore.co/images/player/image/1731/fb_luger_2020_split_1.png",
+                "last_name": "Güven",
+                "modified_at": "2022-08-21T20:06:09Z",
+                "name": "Luger",
+                "nationality": "TR",
+                "role": "adc",
+                "slug": "luger"
+            },
+            {
+                "age": 25,
+                "birthday": "1997-07-17",
+                "first_name": "Niship",
+                "id": 3468,
+                "image_url": "https://cdn.pandascore.co/images/player/image/3468/220px_tsm_dhokla_2020_split_1.png",
+                "last_name": "Doshi",
+                "modified_at": "2022-08-21T20:06:09Z",
+                "name": "Dhokla",
+                "nationality": "US",
+                "role": "top",
+                "slug": "dhokla"
+            },
+            {
+                "age": 23,
+                "birthday": "1999-07-08",
+                "first_name": "Cristian",
+                "id": 8282,
+                "image_url": "https://cdn.pandascore.co/images/player/image/8282/c9_palafox_2020_split_2.png",
+                "last_name": "Palafox",
+                "modified_at": "2022-08-21T20:06:09Z",
+                "name": "Palafox",
+                "nationality": "US",
+                "role": "mid",
+                "slug": "palafox"
+            },
+            {
+                "age": 23,
+                "birthday": "1999-07-30",
+                "first_name": "Philippe",
+                "id": 28776,
+                "image_url": "https://cdn.pandascore.co/images/player/image/28776/100_poome_2021_split_1.png",
+                "last_name": "Lavoie-Giguere",
+                "modified_at": "2022-08-21T20:06:09Z",
+                "name": "Poome",
+                "nationality": "CA",
+                "role": "sup",
+                "slug": "poome"
+            }
+        ],
+        "slug": "counter-logic-gaming"
+    },
+    {
+        "acronym": "DIG",
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "id": 384,
+        "image_url": "https://cdn.pandascore.co/images/team/image/384/dignitaslogo_square.png",
+        "location": "GB",
+        "modified_at": "2022-11-22T18:43:40Z",
+        "name": "Dignitas",
+        "players": [
+            {
+                "age": 26,
+                "birthday": "1996-09-17",
+                "first_name": "Vincent",
+                "id": 510,
+                "image_url": "https://cdn.pandascore.co/images/player/image/510/220px_tsm_biofrost_2020_split_1.png",
+                "last_name": "Wang",
+                "modified_at": "2022-06-01T17:11:45Z",
+                "name": "Biofrost",
+                "nationality": "CA",
+                "role": "sup",
+                "slug": "biofrost"
+            },
+            {
+                "age": 23,
+                "birthday": "1999-06-04",
+                "first_name": "Lee",
+                "id": 15260,
+                "image_url": "https://cdn.pandascore.co/images/player/image/15260/220px_af_brook_2019_split_2.png",
+                "last_name": "Jang-hoon",
+                "modified_at": "2022-07-30T21:31:02Z",
+                "name": "Hoon",
+                "nationality": "KR",
+                "role": "top",
+                "slug": "brook"
+            },
+            {
+                "age": 20,
+                "birthday": "2001-12-14",
+                "first_name": "Lawrence",
+                "id": 38239,
+                "image_url": "https://cdn.pandascore.co/images/player/image/38239/dig_e_xyu_2022_split_1.png",
+                "last_name": "Xu",
+                "modified_at": "2022-07-30T21:31:02Z",
+                "name": "eXyu",
+                "nationality": "US",
+                "role": "jun",
+                "slug": "exyu"
+            }
+        ],
+        "slug": "dignitas"
+    },
+    {
+        "acronym": "FLY",
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "id": 311,
+        "image_url": "https://cdn.pandascore.co/images/team/image/311/fly_questlogo_square.png",
+        "location": "US",
+        "modified_at": "2022-11-26T17:16:53Z",
+        "name": "FlyQuest",
+        "players": [
+            {
+                "age": 30,
+                "birthday": "1992-09-08",
+                "first_name": "Zaqueri",
+                "id": 26,
+                "image_url": "https://cdn.pandascore.co/images/player/image/26/dig_aphromoo_2021_split_2.png",
+                "last_name": "Black",
+                "modified_at": "2022-08-20T21:08:40Z",
+                "name": "Aphromoo",
+                "nationality": "US",
+                "role": "sup",
+                "slug": "aphromoo"
+            },
+            {
+                "age": 21,
+                "birthday": "2001-05-01",
+                "first_name": "Loïc",
+                "id": 2273,
+                "image_url": "https://cdn.pandascore.co/images/player/image/2273/gog_toucouille_2020_split_2.png",
+                "last_name": "Dubois",
+                "modified_at": "2022-08-20T21:08:41Z",
+                "name": "Toucouille",
+                "nationality": "FR",
+                "role": "mid",
+                "slug": "toucouille"
+            },
+            {
+                "age": 20,
+                "birthday": "2002-07-28",
+                "first_name": "Philip",
+                "id": 35883,
+                "image_url": "https://cdn.pandascore.co/images/player/image/35883/image.png",
+                "last_name": "Zeng",
+                "modified_at": "2022-08-20T21:08:41Z",
+                "name": "Philip",
+                "nationality": "CA",
+                "role": "top",
+                "slug": "philip"
+            }
+        ],
+        "slug": "flyquest"
+    },
+    {
+        "acronym": "IMT",
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "id": 112,
+        "image_url": "https://cdn.pandascore.co/images/team/image/112/220px_immortalslogo_square.png",
+        "location": "US",
+        "modified_at": "2022-11-29T12:55:48Z",
+        "name": "Immortals",
+        "players": [
+            {
+                "age": 24,
+                "birthday": "1998-11-16",
+                "first_name": "Nicholas",
+                "id": 1130,
+                "image_url": "https://cdn.pandascore.co/images/player/image/1130/220px_gg_ablazeolive_2020_split_1.png",
+                "last_name": "Abbott",
+                "modified_at": "2022-11-29T12:55:48Z",
+                "name": "Ablazeolive",
+                "nationality": "CA",
+                "role": "mid",
+                "slug": "ablazeolive"
+            },
+            {
+                "age": 23,
+                "birthday": "1999-06-21",
+                "first_name": "Mohammed",
+                "id": 18415,
+                "image_url": "https://cdn.pandascore.co/images/player/image/18415/imt_revenge_2021_split_2.png",
+                "last_name": "Kaddoura",
+                "modified_at": "2022-06-01T17:11:49Z",
+                "name": "Revenge",
+                "nationality": "US",
+                "role": "top",
+                "slug": "sec-revenge"
+            },
+            {
+                "age": 20,
+                "birthday": "2002-10-09",
+                "first_name": "Shane",
+                "id": 29434,
+                "image_url": "https://cdn.pandascore.co/images/player/image/29434/100_kenvi_2021_split_1.png",
+                "last_name": "Espinoza",
+                "modified_at": "2022-06-01T17:11:49Z",
+                "name": "Kenvi",
+                "nationality": "PH",
+                "role": "jun",
+                "slug": "100-kenvi"
+            }
+        ],
+        "slug": "immortals"
+    },
+    {
+        "acronym": "GG",
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "id": 1535,
+        "image_url": "https://cdn.pandascore.co/images/team/image/1535/1200px_goldenguardians_logo.svg.png",
+        "location": "US",
+        "modified_at": "2022-11-24T13:07:59Z",
+        "name": "Golden Guardians",
+        "players": [
+            {
+                "age": 25,
+                "birthday": "1997-03-16",
+                "first_name": "Trevor",
+                "id": 229,
+                "image_url": "https://cdn.pandascore.co/images/player/image/229/220px_clg_stixxay_2020_split_1.png",
+                "last_name": "Hayes",
+                "modified_at": "2022-08-21T20:19:38Z",
+                "name": "Stixxay",
+                "nationality": "US",
+                "role": "adc",
+                "slug": "stixxay"
+            },
+            {
+                "age": 27,
+                "birthday": "1995-04-03",
+                "first_name": "Choi",
+                "id": 618,
+                "image_url": "https://cdn.pandascore.co/images/player/image/618/100_huhi_2021_split_2.png",
+                "last_name": "Jae-Hyun",
+                "modified_at": "2022-11-23T11:58:49Z",
+                "name": "huhi",
+                "nationality": "KR",
+                "role": "sup",
+                "slug": "huhi"
+            },
+            {
+                "age": 25,
+                "birthday": "1997-09-30",
+                "first_name": "Eric",
+                "id": 1190,
+                "image_url": "https://cdn.pandascore.co/images/player/image/1190/fly_licorice_2021_split_2.png",
+                "last_name": "Ritchie",
+                "modified_at": "2022-08-21T20:19:38Z",
+                "name": "Licorice",
+                "nationality": "CA",
+                "role": "top",
+                "slug": "licorice"
+            },
+            {
+                "age": 22,
+                "birthday": "2000-08-09",
+                "first_name": "Kim",
+                "id": 8151,
+                "image_url": "https://cdn.pandascore.co/images/player/image/8151/fpx_gori_2022_split_1.png",
+                "last_name": "Tae-woo",
+                "modified_at": "2022-11-24T13:08:00Z",
+                "name": "Gori",
+                "nationality": "KR",
+                "role": "mid",
+                "slug": "gori"
+            },
+            {
+                "age": 22,
+                "birthday": "2000-02-01",
+                "first_name": "Jacob",
+                "id": 8280,
+                "image_url": "https://cdn.pandascore.co/images/player/image/8280/220px_100_prismal_2020_split_1.png",
+                "last_name": "Feinstein",
+                "modified_at": "2022-08-21T20:19:38Z",
+                "name": "Prismal",
+                "nationality": "US",
+                "role": "adc",
+                "slug": "prismal"
+            },
+            {
+                "age": 23,
+                "birthday": "1999-07-23",
+                "first_name": "Kim",
+                "id": 18099,
+                "image_url": "https://cdn.pandascore.co/images/player/image/18099/psg_river_worlds_2021.png",
+                "last_name": "Dong-woo",
+                "modified_at": "2022-08-21T20:19:38Z",
+                "name": "River",
+                "nationality": "KR",
+                "role": "jun",
+                "slug": "baby-a4193857-79e6-4f15-91cf-a510ab151fff"
+            }
+        ],
+        "slug": "golden-guardians"
+    }
+]
