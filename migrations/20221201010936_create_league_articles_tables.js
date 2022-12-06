@@ -9,7 +9,7 @@ exports.up = function (knex) {
         table.string("description", 9999).notNullable();
         table.timestamp("created_at").defaultTo(knex.fn.now());
         table.string("author").notNullable().defaultTo("Anonymous");
-        table.binary("image").notNullable();
+        table.string("image").notNullable();
     });
 };
 

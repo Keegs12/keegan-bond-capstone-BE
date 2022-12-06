@@ -12,10 +12,11 @@ exports.singleTeam = (req, res) => {
 
     const teamDataJSON = fs.readFileSync("./data/league-team-details.json");
     const teamData = JSON.parse(teamDataJSON);
+
     const team = teamData.find((team) => {
-        return (team.id = id);
+        return team.id == id;
     });
-    console.log(team);
+
     if (!team) {
         return res.status(404).send(`That team id: ${id} is invalid`);
     }

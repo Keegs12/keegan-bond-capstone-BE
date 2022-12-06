@@ -1,15 +1,31 @@
 {
-    "scripts": {
-        "start": "nodemon index.js"
-    },
-    "dependencies": {
-        "cors": "^2.8.5",
-        "dotenv": "^16.0.3",
-        "express": "^4.18.2",
-        "fs": "^0.0.1-security",
-        "knex": "^2.3.0",
-        "mysql": "^2.18.1",
-        "node": "^19.2.0",
-        "nodemon": "^2.0.20"
-    }
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "knex": "^2.3.0",
+    "mysql": "^2.18.1",
+    "node": "^19.2.0",
+    "nodemon": "^2.0.20"
+  },
+  "name": "keegan-bond-capstone-be",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keegs12/keegan-bond-capstone-BE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keegs12/keegan-bond-capstone-BE/issues"
+  },
+  "homepage": "https://github.com/Keegs12/keegan-bond-capstone-BE#readme",
+  "description": ""
 }
