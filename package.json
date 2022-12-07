@@ -10,12 +10,12 @@
     "knex": "^2.3.0",
     "mysql": "^2.18.1",
     "node": "^19.2.0",
-    "nodemon": "^2.0.20"
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
   },
   "name": "keegan-bond-capstone-be",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Keegs12/keegan-bond-capstone-BE.git"
