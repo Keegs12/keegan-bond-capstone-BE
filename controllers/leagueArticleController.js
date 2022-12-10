@@ -1,5 +1,6 @@
 const knex = require("knex")(require("../knexfile"));
 const { v4: uuidv4 } = require("uuid");
+const fs = require("fs");
 
 exports.articles = async (req, res) => {
     try {
@@ -18,6 +19,10 @@ exports.addArticle = async (req, res) => {
             `Please make sure you have entered each field correctly`
         );
     }
+    const binaryImage = Buffer.from(req.body.image);
+    console.log(binaryImage);
+    fs.writeFileSync("./public/images" + "image.png", binaryImage);
+
     const newArticle = {
         id: uuidv4(),
         article_title: req.body.article_title,

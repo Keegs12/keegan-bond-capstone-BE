@@ -10,9 +10,11 @@ app.use(express.json());
 
 const leagueArticleRoute = require("./routes/leagueArticleRoute");
 const leagueTeamsRoute = require("./routes/leagueTeamsRoute");
+const userRoute = require("./routes/users");
 
 app.use("/lol/articles", leagueArticleRoute);
 app.use("/lol/teams", leagueTeamsRoute);
+app.use("/users", userRoute);
 
 app.get("/", (req, res) => {
     res.send("Welcome");

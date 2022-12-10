@@ -636,5 +636,73 @@
             }
         ],
         "slug": "golden-guardians"
+    },
+    {
+        "acronym": "100",
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "id": 1537,
+        "image_url": "https://cdn.pandascore.co/images/team/image/1537/100_thieves_alternatelogo_square.png",
+        "location": "US",
+        "modified_at": "2022-12-09T13:16:49Z",
+        "name": "100 Thieves",
+        "players": [
+            {
+                "age": 26,
+                "birthday": "1996-02-21",
+                "first_name": "Søren",
+                "id": 40,
+                "image_url": "https://cdn.pandascore.co/images/player/image/40/220px_tsm_bjergsen_2020_split_1.png",
+                "last_name": "Bjerg",
+                "modified_at": "2022-12-09T13:16:49Z",
+                "name": "Bjergsen",
+                "nationality": "DK",
+                "role": "mid",
+                "slug": "bjergsen"
+            },
+            {
+                "age": 24,
+                "birthday": "1998-09-29",
+                "first_name": "Can",
+                "id": 2116,
+                "image_url": "https://cdn.pandascore.co/images/player/image/2116/100_closer_2021_split_2.png",
+                "last_name": "Çelik",
+                "modified_at": "2022-09-29T06:18:20Z",
+                "name": "Closer",
+                "nationality": "TR",
+                "role": "jun",
+                "slug": "k1ra"
+            },
+            {
+                "age": 29,
+                "birthday": "1993-07-19",
+                "first_name": "Yiliang",
+                "id": 2145,
+                "image_url": "https://cdn.pandascore.co/images/player/image/2145/tsm_doublelift_2020_split_2.png",
+                "last_name": "Peng",
+                "modified_at": "2022-12-09T13:16:49Z",
+                "name": "Doublelift",
+                "nationality": "US",
+                "role": "adc",
+                "slug": "doublelift"
+            },
+            {
+                "age": 19,
+                "birthday": "2003-02-28",
+                "first_name": "Milan",
+                "id": 32060,
+                "image_url": "https://cdn.pandascore.co/images/player/image/32060/100_tenacity_2021_split_1.png",
+                "last_name": "Oleksij",
+                "modified_at": "2022-08-13T10:00:23Z",
+                "name": "Tenacity",
+                "nationality": "CA",
+                "role": "top",
+                "slug": "tenacity"
+            }
+        ],
+        "slug": "100-thieves"
     }
 ]
