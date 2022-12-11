@@ -21,14 +21,14 @@ exports.addArticle = async (req, res) => {
     }
     const binaryImage = Buffer.from(req.body.image);
     console.log(binaryImage);
-    fs.writeFileSync("./public/images" + "image.png", binaryImage);
+    fs.writeFileSync("./public/images/" + `${uuidv4()}.png`, binaryImage);
 
     const newArticle = {
         id: uuidv4(),
         article_title: req.body.article_title,
         description: req.body.description,
         author: req.body.author,
-        image: req.body.image,
+        image: `http://localhost:8080/images/9bd6e488-576d-4979-add7-af4fe1df9d49.png`,
     };
     try {
         const articleData = await knex("league_articles").insert(newArticle);

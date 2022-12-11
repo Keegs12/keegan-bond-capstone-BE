@@ -15,6 +15,7 @@ const userRoute = require("./routes/users");
 app.use("/lol/articles", leagueArticleRoute);
 app.use("/lol/teams", leagueTeamsRoute);
 app.use("/users", userRoute);
+app.use(express.static("public"));
 
 app.get("/", (req, res) => {
     res.send("Welcome");
