@@ -265,7 +265,7 @@
         "id": 390,
         "image_url": "https://cdn.pandascore.co/images/team/image/390/liquid.png",
         "location": "NL",
-        "modified_at": "2022-11-24T23:02:43Z",
+        "modified_at": "2022-12-03T13:10:34Z",
         "name": "Team Liquid",
         "players": [
             {
@@ -282,17 +282,56 @@
                 "slug": "corejj"
             },
             {
-                "age": 23,
-                "birthday": "1998-12-24",
-                "first_name": "Gabriël",
-                "id": 1343,
-                "image_url": "https://cdn.pandascore.co/images/player/image/1343/fnc_bwipo_2021_split_2.png",
-                "last_name": "Rau",
-                "modified_at": "2022-08-20T21:08:42Z",
-                "name": "Bwipo",
-                "nationality": "BE",
+                "age": 24,
+                "birthday": "1998-12-08",
+                "first_name": "Park ",
+                "id": 8270,
+                "image_url": "https://cdn.pandascore.co/images/player/image/8270/lsb_summit_2021_split_1.png",
+                "last_name": "Woo-tae",
+                "modified_at": "2022-12-03T13:10:34Z",
+                "name": "Summit",
+                "nationality": "KR",
                 "role": "top",
-                "slug": "bwipo"
+                "slug": "summit"
+            },
+            {
+                "age": 21,
+                "birthday": "2001-02-02",
+                "first_name": "Harry ",
+                "id": 19369,
+                "image_url": "https://cdn.pandascore.co/images/player/image/19369/220px_ord_haeri_2020_split_1.png",
+                "last_name": "Kang",
+                "modified_at": "2022-12-03T13:10:34Z",
+                "name": "Haeri",
+                "nationality": "AU",
+                "role": "mid",
+                "slug": "haeri"
+            },
+            {
+                "age": 22,
+                "birthday": "2000-03-21",
+                "first_name": "Hong",
+                "id": 24996,
+                "image_url": "https://cdn.pandascore.co/images/player/image/24996/drx_pyosik_2021_split_1.png",
+                "last_name": "Chang-hyeon",
+                "modified_at": "2022-12-03T13:10:34Z",
+                "name": "Pyosik",
+                "nationality": "KR",
+                "role": "jun",
+                "slug": "pyosik"
+            },
+            {
+                "age": 20,
+                "birthday": "2002-01-07",
+                "first_name": "Sean",
+                "id": 32065,
+                "image_url": "https://cdn.pandascore.co/images/player/image/32065/tl_yeon_2021_split_1.png",
+                "last_name": "Sung",
+                "modified_at": "2022-12-03T13:10:34Z",
+                "name": "Yeon",
+                "nationality": "US",
+                "role": "adc",
+                "slug": "yeon"
             }
         ],
         "slug": "liquid"

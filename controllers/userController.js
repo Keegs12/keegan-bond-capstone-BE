@@ -9,14 +9,7 @@ exports.register = async (req, res) => {
             req.body;
         console.log(req.body);
         // If any fields are missing, return
-        if (
-            !first_name ||
-            !last_name ||
-            !phone ||
-            !address ||
-            !email ||
-            !password
-        ) {
+        if (!first_name || !last_name || !address || !email || !password) {
             return res.status(400).send("Please enter the required fields.");
         }
 

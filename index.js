@@ -1,4 +1,5 @@
 const express = require("express");
+const fileupload = require("express-fileupload");
 const app = express();
 
 const cors = require("cors");
@@ -11,6 +12,9 @@ app.use(express.json());
 const leagueArticleRoute = require("./routes/leagueArticleRoute");
 const leagueTeamsRoute = require("./routes/leagueTeamsRoute");
 const userRoute = require("./routes/users");
+
+app.use(fileupload());
+app.use(express.urlencoded({ extended: true }));
 
 app.use("/lol/articles", leagueArticleRoute);
 app.use("/lol/teams", leagueTeamsRoute);
