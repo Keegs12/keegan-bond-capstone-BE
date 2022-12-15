@@ -1,4 +1,4 @@
-![Logo]("./logo/logo-no-background.png)
+![Logo]("./logo/logo-no-background.png")
 
 # EsportsHub
 
